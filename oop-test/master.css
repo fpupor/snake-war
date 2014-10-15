@@ -1,0 +1,61 @@
+body
+{
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+
+.gamezone
+{	
+	background-color: white;	
+	position: relative;
+	margin: 0;
+}
+
+.snake
+{
+	position: absolute;
+	background-color: blue;		
+}
+
+.snake_1
+{
+	background-color: green;		
+}
+
+.fruit
+{
+	background-color: red;	
+	position: absolute;
+}
+
+.wall{
+	background: pink;
+	position:absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
